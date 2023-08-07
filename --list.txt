@@ -1,0 +1,7 @@
+-->list
+appended-add element at last
+-->project
+1.contact
+2.name and address
+3.subjects name and marks
+4.attendance
